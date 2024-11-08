@@ -59,7 +59,7 @@ body{
 padding: 0;
 overflow: hidden;
 
-top: 0;
+
 left: 0;
 width: auto;
 height: fit-content;
@@ -82,4 +82,123 @@ height: fit-content;
     border-color: #000000;
     border-width: 20px;
    
+}
+
+
+/* --------------------2nd para */
+.winterSales1 {
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+  }
+  .font1{
+      font-size: large;
+      position: relative;
+      text-align: center;
+  }
+  .img5{
+      padding: 0px;
+      margin: 0px;
+      width:auto;
+      height: 200px;
+      display: flex;
+      flex-wrap: wrap;
+      background-color: #655252;
+     
+     
+  }
+  .winterSale2{
+      margin: auto;
+      padding-left: 55px;
+      background-color: transparent;
+      
+  
+      
+  }
+  .img4{
+      border-style:groove ;
+      border-color: rgb(218, 108, 17);
+      background-color: transparent;
+      margin: 8px;
+  }
+  .footer0 {
+    background-color: #f8af50;
+    color: #f7ba70;
+    width: 100%;
+    display: contents;
+    
+  
+
+}
+
+
+.footer1 {
+    display:contents;
+    width: fit-content;
+    justify-content: space-between;
+    height: 30px;
+    background-color: #000000;
+ 
+   
+}
+
+
+.footer2 {
+    width: 30%;
+    min-width: 200px;
+    margin: 0px;
+    padding: 150px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #d5842d;
+    justify-content: center;
+  
+}
+
+.footer3 {
+    font-size: 1em;
+    margin-bottom: 8px;
+    color: #ffffff;
+    border-bottom: 1px solid #fffbfb;
+}
+
+
+.footer6 {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer4 {
+    margin: 5px 0;
+    color: #ffffff;
+    font-size: 0.9em;
+    cursor: pointer;
+}
+
+.footer4:hover {
+    color: rgb(0, 0, 0);
+   
+}
+.p1{
+ 
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  padding: 40px;
+  text-align: center;
+}
+.rim{
+    text-align: center;
+    text-decoration: wavy;
+    color: #ffffff;
+}
+footer{
+    position:absolute;
+    z-index: auto;
+    display: block;
+    border: white;
+    left: 0;
+    right: 0;
 }

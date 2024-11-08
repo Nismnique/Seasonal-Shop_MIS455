@@ -44,3 +44,137 @@ body{
     padding-left: 70px;
 }
 /* body */
+
+.app0{
+    margin: 0px;
+    padding: 0px;
+}
+.app1{
+   
+    
+    height: 100px;
+   margin: 20px;
+}
+
+.app2{
+  
+   margin: 10px 30px 10px 100px;
+   display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  
+    column-count: auto;
+    row-gap: 20px;
+    
+}
+.app3{
+    width: 340px;
+    border: 10px;
+   
+    color: rgb(0, 0, 0);
+    padding: 10px 10px 10px 25px;
+    background-color: rgb(214, 141, 4);
+    display: block;
+    justify-content: space-between;
+
+}
+.appIMG{
+    width: fit-content;
+    height: 250px;
+    object-fit:fill;
+    margin-bottom: 10px;
+    justify-content: center;
+    padding: 10px 5px 0px 30px;
+    border-radius: 100%;
+
+   
+}
+
+.appHead{
+   margin: 0px;
+   padding-bottom: 100px;
+}
+
+
+
+/* footer */
+
+
+.footer0 {
+    background-color: #655252;
+    color: #966969;
+    width: 100%;
+    display: contents;
+    
+  
+
+}
+
+
+.footer1 {
+    display:contents;
+    width: fit-content;
+    justify-content: space-between;
+    height: 30px;
+    background-color: #000000;
+ 
+   
+}
+
+
+.footer2 {
+    width: 30%;
+    min-width: 430px;
+    margin: 0px;
+    padding: 30px;
+    
+   
+    background-color: #d5842d;
+    justify-content: center;
+  
+}
+
+.footer3 {
+    font-size: 1em;
+    margin-bottom: 8px;
+    color: #ffffff;
+    border-bottom: 1px solid #fffbfb;
+}
+
+
+.footer6 {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer4 {
+    margin: 5px 0;
+    color: #ffffff;
+    font-size: 0.9em;
+    cursor: pointer;
+}
+
+.footer4:hover {
+    color: rgb(0, 0, 0);
+   
+}
+
+footer{
+    position:absolute;
+    z-index: auto;
+    display: block;
+    border: white;
+    left: 0;
+    right: 0;
+}
+
+
+.p2{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-size: larger;
+    font-style: normal;
+    text-align: center;
+}
+.mid{
+    text-align: center;
+}
